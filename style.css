@@ -1,0 +1,62 @@
+.topnav a{
+  float: left;
+  color:black;
+  text-align:left;
+  padding:18px 128px;
+  text-decoration: none;
+}
+
+.topnav a:hover{
+  background-color:black;
+  color:yellow;
+}
+
+.topnav a{
+  background-color: black;
+  color:red;
+}
+
+body {
+  background-color: yellow;
+  color:red;
+  font-family: bahnschrift;
+}
+
+.flex-container {
+   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.groove-border {
+border-style: groove;
+border-color:black;
+border-width: 4px;
+padding: 40px;
+}
+
+.What-you-can-make{
+text-align: center;
+}
+
+.flex-container-v2{
+   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+td, th {
+  border: 4px;
+  border-color: black;
+  text-align: left;
+  padding: 15px 130px;
+}
+
+tr:nth-child(even) {
+  background-color:black;
+}
+
+
+.links a{
+color: red;
+}
